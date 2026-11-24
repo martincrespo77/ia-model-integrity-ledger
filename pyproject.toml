@@ -1,0 +1,19 @@
+[project]
+name = "ia-model-integrity-ledger"
+version = "0.1.0"
+description = "Prototipo v0.1 de trazabilidad y verificación criptográfica de integridad para modelos de IA mediante registro inmutable (Blockchain + Ed25519)."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "cryptography>=42.0",
+    "torch>=2.0",
+    "rich>=13.0",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint.per-file-ignores]
+"scripts/*.py" = ["E402"]
+"tests/*.py" = ["E402"]
