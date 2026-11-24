@@ -1,0 +1,100 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1600' height='600' viewBox='0 0 1600 600'>
+  <rect width='1600' height='600' rx='20' fill='#08162b'/>
+  <rect x='16' y='16' width='1568' height='568' rx='16' fill='none' stroke='#1e3a5f' stroke-width='2'/>
+
+  <g stroke='#173256' stroke-width='1' opacity='0.55'>
+    <line x1='0' y1='120' x2='1600' y2='120'/>
+    <line x1='0' y1='240' x2='1600' y2='240'/>
+    <line x1='0' y1='360' x2='1600' y2='360'/>
+    <line x1='0' y1='480' x2='1600' y2='480'/>
+    <line x1='200' y1='0' x2='200' y2='600'/>
+    <line x1='400' y1='0' x2='400' y2='600'/>
+    <line x1='600' y1='0' x2='600' y2='600'/>
+    <line x1='800' y1='0' x2='800' y2='600'/>
+    <line x1='1000' y1='0' x2='1000' y2='600'/>
+    <line x1='1200' y1='0' x2='1200' y2='600'/>
+    <line x1='1400' y1='0' x2='1400' y2='600'/>
+  </g>
+
+  <circle cx='1260' cy='300' r='235' fill='#0d2547'/>
+  <circle cx='1260' cy='300' r='175' fill='#112c52'/>
+
+  <g transform='translate(1070, 95)'>
+    <g stroke='#38bdf8' stroke-width='2.6' opacity='0.8'>
+      <line x1='70' y1='90' x2='190' y2='55'/>
+      <line x1='70' y1='90' x2='190' y2='205'/>
+      <line x1='70' y1='205' x2='190' y2='55'/>
+      <line x1='70' y1='205' x2='190' y2='205'/>
+      <line x1='70' y1='205' x2='190' y2='345'/>
+      <line x1='70' y1='320' x2='190' y2='205'/>
+      <line x1='70' y1='320' x2='190' y2='345'/>
+      <line x1='190' y1='55' x2='315' y2='130'/>
+      <line x1='190' y1='205' x2='315' y2='130'/>
+      <line x1='190' y1='205' x2='315' y2='280'/>
+      <line x1='190' y1='345' x2='315' y2='280'/>
+    </g>
+
+    <g fill='#08162b' stroke='#38bdf8' stroke-width='3.5'>
+      <circle cx='70' cy='90' r='14'/>
+      <circle cx='70' cy='205' r='14'/>
+      <circle cx='70' cy='320' r='14'/>
+      <circle cx='190' cy='55' r='14'/>
+      <circle cx='190' cy='345' r='14'/>
+      <circle cx='315' cy='130' r='14'/>
+      <circle cx='315' cy='280' r='14'/>
+    </g>
+    <g fill='#7dd3fc'>
+      <circle cx='70' cy='90' r='5'/>
+      <circle cx='70' cy='205' r='5'/>
+      <circle cx='70' cy='320' r='5'/>
+      <circle cx='190' cy='55' r='5'/>
+      <circle cx='190' cy='345' r='5'/>
+      <circle cx='315' cy='130' r='5'/>
+      <circle cx='315' cy='280' r='5'/>
+    </g>
+
+    <path d='M190,115 L268,148 L268,225 C268,278 232,315 190,335 C148,315 112,278 112,225 L112,148 Z'
+          fill='#102647' stroke='#f59e0b' stroke-width='4.5'/>
+    <path d='M168,205 L168,186 C168,173 178,164 190,164 C202,164 212,173 212,186 L212,205'
+          fill='none' stroke='#f59e0b' stroke-width='5.5' stroke-linecap='round'/>
+    <rect x='158' y='205' width='64' height='48' rx='8' fill='#f59e0b'/>
+    <circle cx='190' cy='226' r='6' fill='#08162b'/>
+    <rect x='187' y='230' width='6' height='12' rx='2' fill='#08162b'/>
+  </g>
+
+  <rect x='88' y='92' width='84' height='6' rx='3' fill='#38bdf8'/>
+  <rect x='178' y='92' width='48' height='6' rx='3' fill='#f59e0b'/>
+
+  <text x='88' y='140' font-family='Arial, Helvetica, sans-serif' font-size='20' font-weight='bold' fill='#38bdf8'>
+    LÍNEA: COMUNICACIONES E INFORMÁTICA EN SISTEMAS DE DEFENSA
+  </text>
+
+  <text x='88' y='225' font-family='Arial, Helvetica, sans-serif' font-size='56' font-weight='bold' fill='#ffffff'>
+    Criptografía e Inteligencia
+  </text>
+  <text x='88' y='294' font-family='Arial, Helvetica, sans-serif' font-size='56' font-weight='bold' fill='#ffffff'>
+    Artificial
+  </text>
+
+  <text x='88' y='356' font-family='Arial, Helvetica, sans-serif' font-size='25' fill='#cbd5e1'>
+    Trazabilidad e Integridad de Modelos de IA mediante Blockchain + Ed25519
+  </text>
+
+  <g transform='translate(88, 408)'>
+    <rect x='0' y='0' width='145' height='42' rx='8' fill='#0f294a' stroke='#38bdf8' stroke-width='1.5'/>
+    <text x='72' y='27' text-anchor='middle' font-family='Arial, Helvetica, sans-serif' font-size='18' font-weight='bold' fill='#7dd3fc'>SHA-256</text>
+
+    <rect x='162' y='0' width='145' height='42' rx='8' fill='#0f294a' stroke='#38bdf8' stroke-width='1.5'/>
+    <text x='234' y='27' text-anchor='middle' font-family='Arial, Helvetica, sans-serif' font-size='18' font-weight='bold' fill='#7dd3fc'>Ed25519</text>
+
+    <rect x='324' y='0' width='210' height='42' rx='8' fill='#2b1f0e' stroke='#f59e0b' stroke-width='1.5'/>
+    <text x='429' y='27' text-anchor='middle' font-family='Arial, Helvetica, sans-serif' font-size='18' font-weight='bold' fill='#fcd34d'>Blockchain v0.1</text>
+
+    <rect x='551' y='0' width='175' height='42' rx='8' fill='#0f294a' stroke='#38bdf8' stroke-width='1.5'/>
+    <text x='638' y='27' text-anchor='middle' font-family='Arial, Helvetica, sans-serif' font-size='18' font-weight='bold' fill='#7dd3fc'>OE2 · OE4 · S2</text>
+  </g>
+
+  <text x='88' y='525' font-family='Arial, Helvetica, sans-serif' font-size='20' fill='#94a3b8'>
+    Prototipo Experimental · Contribución: CT Martin CRESPO · ia-model-integrity-ledger
+  </text>
+</svg>

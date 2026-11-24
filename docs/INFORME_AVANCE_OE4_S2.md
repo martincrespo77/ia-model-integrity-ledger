@@ -1,10 +1,14 @@
+![Criptografía e Inteligencia Artificial — Trazabilidad e Integridad de Modelos de IA](../assets/banner_proyecto.png)
+
 # Informe de Avance Técnico — Proyecto "Criptografía e Inteligencia Artificial"
 
 **Subproyecto / Contribución:** Prototipo v0.1 de Trazabilidad y Verificación Criptográfica de Integridad para Modelos de Inteligencia Artificial mediante Registro Inmutable (Blockchain Permisionada + Ed25519)  
+**Alumno / Autor de la Contribución:** CT Martin CRESPO  
 **Línea de Investigación:** Comunicaciones e Informática en Sistemas de Defensa  
 **Área Temática:** Inteligencia Artificial, Criptología y Criptografía  
 **Ubicación en el Plan de Trabajo:** Año 1 – Semestre 2 (Exploración experimental inicial)  
 **Objetivos Específicos Asociados:** **OE2** (Evaluar la capacidad de la criptografía para proteger modelos y datos de IA) y **OE4** (Examinar el uso de tecnologías Blockchain en aplicaciones de IA — *Prototipo Blockchain versión 0.1*)  
+**Repositorio de Código:** https://github.com/martincrespo77/ia-model-integrity-ledger  
 **Fecha:** 24 de noviembre de 2026  
 
 ---

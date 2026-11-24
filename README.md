@@ -1,8 +1,13 @@
+![Criptografía e Inteligencia Artificial — Trazabilidad e Integridad de Modelos de IA](assets/banner_proyecto.png)
+
 # Prototipo de Trazabilidad y Verificación Criptográfica de Integridad para Modelos de IA (`Blockchain + Ed25519`)
 
 **Proyecto marco:** *Criptografía e Inteligencia Artificial*  
 **Línea de investigación:** Comunicaciones e Informática en Sistemas de Defensa  
-**Alineación:** Objetivo Específico 2 (OE2), Objetivo Específico 4 (OE4) y Año 1 – Semestre 2 (Prototipo Blockchain v0.1)
+**Alineación:** Objetivo Específico 2 (OE2), Objetivo Específico 4 (OE4) y Año 1 – Semestre 2 (Prototipo Blockchain v0.1)  
+**Alumno / Contribución:** CT Martin CRESPO  
+**Repositorio:** https://github.com/martincrespo77/ia-model-integrity-ledger  
+**Informe técnico:** [Informe Markdown](docs/INFORME_AVANCE_OE4_S2.md) · [Informe PDF](docs/INFORME_AVANCE_OE4_S2.pdf)
 
 ---
 
@@ -27,10 +32,15 @@ El prototipo implementa una **cadena de custodia permisionada** (arquitectura li
 ## 3. Estructura del repositorio
 
 ```text
+├── assets/
+│   ├── banner_proyecto.png           # Imagen representativa del proyecto
+│   └── banner_proyecto.svg           # Fuente vectorial editable del banner
 ├── docs/
-│   └── INFORME_AVANCE_OE4_S2.md      # Informe técnico formal listo para elevar
+│   ├── INFORME_AVANCE_OE4_S2.md      # Informe técnico formal en Markdown
+│   └── INFORME_AVANCE_OE4_S2.pdf     # Informe técnico exportado en PDF para elevar
 ├── scripts/
-│   └── ejecutar_experimento.py       # Demostración reproducible de los 4 escenarios
+│   ├── ejecutar_experimento.py       # Demostración reproducible de los 4 escenarios
+│   └── generar_informe_pdf.py        # Generador reproducible del PDF desde el informe
 ├── src/cripto_ia_integridad/
 │   ├── dominio/                      # Entidades, Value Objects, State, Operaciones y Puertos
 │   ├── aplicacion/                   # ServicioCustodiaModelos
